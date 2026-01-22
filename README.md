@@ -1,4 +1,4 @@
-# 📄 Semantic Frame Identifier
+# Semantic Frame Identifier
 
 A Python/NLTK-based Natural Language Processing (NLP) tool for extracting semantic frames from text related to finance, commerce, and business.
 
@@ -8,7 +8,7 @@ This project identifies three semantic frames:
 - **Commercial Transaction** – buying/selling events, buyers, sellers, goods, and monetary amounts.
 - **Business** – organizations, locations, and descriptive attributes.
 
-## 🚀 Features
+## Features
 
 ### Entity Correction
 - Fixes and augments named entities (NER) using a custom gazetteer and manual heuristics.
@@ -28,7 +28,7 @@ This project identifies three semantic frames:
 ### WordNet Similarity Scoring
 - Uses **Wu-Palmer** and **Leacock-Chodorow** similarity measures to detect lexical unit matches.
 
-## 🧠 How It Works
+## How It Works
 
 ### 1. Tokenization & POS Tagging
 - Uses NLTK to split text into tokens and assign part-of-speech tags.
@@ -44,5 +44,5 @@ This project identifies three semantic frames:
 - Searches surrounding tokens/entities for relevant elements.
 - Handles special cases like multi-word amounts, monetary expressions, and possessives.
 
-## 📤 Output
+## Output
 - Prints sentence along with detected frames and elements in a structured format.
