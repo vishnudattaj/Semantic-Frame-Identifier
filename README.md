@@ -2,6 +2,9 @@
 
 A Python/NLTK-based Natural Language Processing (NLP) tool for extracting semantic frames from text related to finance, commerce, and business.
 
+`Vishnu_Jayanti_Semantic_Frame_Identification.pdf` -> Paper explaining research process
+Paper can also be found [here](https://utdallas.app.box.com/v/HS-Research-2025/file/1954312683612)
+
 This project identifies three semantic frames:
 
 - **Capital Stock** – mentions of shares, stocks, stock types, issuers, and shareholders.
