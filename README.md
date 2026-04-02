@@ -8,6 +8,10 @@ This project identifies three semantic frames:
 - **Commercial Transaction** – buying/selling events, buyers, sellers, goods, and monetary amounts.
 - **Business** – organizations, locations, and descriptive attributes.
 
+## Research Paper
+- `Vishnu_Jayanti_Semantic_Frame_Identification.pdf` -> Paper explaining research process
+- Paper can also be found [here](https://utdallas.app.box.com/v/HS-Research-2025/file/1954312683612)
+
 ## Features
 
 ### Entity Correction
@@ -46,7 +50,3 @@ This project identifies three semantic frames:
 
 ## Output
 - Prints sentence along with detected frames and elements in a structured format.
-
-## Research Paper
-- `Vishnu_Jayanti_Semantic_Frame_Identification.pdf` -> Paper explaining research process
-- Paper can also be found [here](https://utdallas.app.box.com/v/HS-Research-2025/file/1954312683612)
